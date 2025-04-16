@@ -26,3 +26,19 @@ Este projeto marca o início da minha jornada como desenvolvedora front-end.
 ## Como visualizar
 
 Você pode acessar os arquivos do projeto aqui no repositório ou clonar para testar:
+
+## Sobre mim
+
+Sou uma mulher paulistana, mãe, protetora de animais e estudante de Análise e Desenvolvimento de Sistemas.  
+Estudo com dedicação nos intervalos dos meus afazeres e do cuidado com os animais.
+Este projeto é uma semente. Meu sonho é conseguir transformar amor e código em renda para continuar cuidando de todos eles com dignidade.
+
+## Conecte-se comigo
+
+- [LinkedIn](https://www.linkedin.com/in/adrianathomaz-melao/)
+- GitHub: [AdrianaThomaz](https://github.com/AdrianaThomaz)
+
+**Se você quiser apoiar minha causa, entre em contato. Toda ajuda é bem-vinda.**
+
+Com carinho,  
+**Adriana Thomaz Melão**
